@@ -1,4 +1,3 @@
 # Kokoa Clone 2021 Update
 
-Css got to so much better!
-xdwdwd
+Html and CSS are so much fun!
