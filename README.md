@@ -1,3 +1,3 @@
 # Kokoa Clone 2021 Update
 
-HTME & CSS are so much fun!
+Css got to so much better!
