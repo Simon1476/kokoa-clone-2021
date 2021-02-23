@@ -43,4 +43,30 @@
 
 .user-component__column:last-child {
   color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.user-component__time {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.user-component__text-info {
+  display: flex;
+  align-items: center;
+}
+
+.user-component__text-info span {
+  display: flex;
+  margin-top: 10px;
+  margin-left: 5px;
+  width: 15px;
+  height: 15px;
+  border-radius: 7.5px;
+  justify-content: center;
+  align-items: center;
+  background-color: tomato;
+  color: white;
 }
