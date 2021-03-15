@@ -39,6 +39,6 @@
     transform: rotateZ(360deg);
   }
 }
-.screen-header__icons .fa-cog:hover {
+.screen-header__icons .fa-cog:active {
   animation: rotateCog 1s linear infinite;
 }
